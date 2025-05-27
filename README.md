@@ -1,3 +1,22 @@
+Group Member:
+Rachelle Jane Pateno
+Cherry Mae Torrepalma
+Cherylane Paclar
+Anthony Labo
+Undrea Fe Llacuna
+Paul Christian Ravidas
+Zielpha Gean Alimbog
+Aisah Bangki
+Jhamaica Opura
+Janice Tabaco
+Vea Dalangin
+Nicole Abigail Resuera
+Christian Codilla
+Novrizkie Kent Dela Cruz
+Danilo Damalerio
+Charles Phlegmver Morados
+
+
 # Employee Leave Management System
 
 The **Employee Leave Management System** is a web-based application built using **PHP**, **MySQL**, **HTML**, **CSS**, and **JavaScript**. It allows employees to request leaves, managers to review and manage those requests, and generate summary reports. This system provides a modular and user-friendly interface, supports role-based access, and ensures proper leave management in an organization.
