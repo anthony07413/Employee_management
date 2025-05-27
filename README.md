@@ -1,20 +1,20 @@
 Group Member:
-Rachelle Jane Pateno
-Cherry Mae Torrepalma
-Cherylane Paclar
-Anthony Labo
-Undrea Fe Llacuna
-Paul Christian Ravidas
-Zielpha Gean Alimbog
-Aisah Bangki
-Jhamaica Opura
-Janice Tabaco
-Vea Dalangin
-Nicole Abigail Resuera
-Christian Codilla
-Novrizkie Kent Dela Cruz
-Danilo Damalerio
-Charles Phlegmver Morados
+1. Rachelle Jane Pateno
+2. Cherry Mae Torrepalma
+3. Cherylane Paclar
+4. Anthony Labo
+5. Undrea Fe Llacuna
+6. Paul Christian Ravidas
+7. Zielpha Gean Alimbog
+8. Aisah Bangki
+9. Jhamaica Opura
+10. Janice Tabaco
+11. Vea Dalangin
+12. Nicole Abigail Resuera
+13. Christian Codilla
+14. Novrizkie Kent Dela Cruz
+15. Danilo Damalerio
+16. Charles Phlegmver Morados
 
 
 # Employee Leave Management System
